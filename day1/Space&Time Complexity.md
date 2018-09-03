@@ -2,7 +2,7 @@
 ##  时间复杂度
 看一下学校老师的解释：
 <p align="center">
-  <img src="https://github.com/Cyberhan123/algorithm_learn/day1/src/day1-1.png">
+  <img src="https://github.com/Cyberhan123/algorithm_learn/blob/master/day1/src/day1-1.png">
 </p>
 完蛋了要上天了，其实。。。我查了一下百度
 
