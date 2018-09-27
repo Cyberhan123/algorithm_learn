@@ -9,3 +9,6 @@
 点这里->[递归&分而治之](https://github.com/Cyberhan123/algorithm_learn/blob/master/day2/recursion%26Divide%20and%20conquer.md)
 <br/>
 可恶啊，我竟然鸽了这么多天QAQ
+
+##  DAY 3(2018/9/27)
+点击这里->[动态规划](https://github.com/Cyberhan123/algorithm_learn/blob/master/day2/recursion%26Divide%20and%20conquer.md)
